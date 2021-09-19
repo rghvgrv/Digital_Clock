@@ -22,7 +22,7 @@ s = (s < 10) ? "0" + s : s
 hours.innerHTML = h;
 mins.innerHTML = m;
 secs.innerHTML = s;
-ampm.innerHTML = am;
+ap.innerHTML = a;
 
 }
 
