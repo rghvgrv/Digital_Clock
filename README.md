@@ -1,11 +1,11 @@
 # Digital Clock ⏰ 
 
-Digital Clock is a simple Web application that displays the current time in a digital format. 
+Digital Clock is a simple web application that displays current times digitally.   
 
 
 # Features
 * Real-time digital clock display.
-* Glass morphism has applied to the website
+* Glass morphism has been applied to the website
 ## Tech Stack
 
 - HTML
